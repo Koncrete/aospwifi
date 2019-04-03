@@ -1,0 +1,6 @@
+id=AOSPWiFi
+name=AOSP Wifi Module
+version=v2
+versionCode=1
+author=RogerF81
+description=Replaces the WCNSS_qcom_cfg.ini file(s) in /vendor/... with the according file from Google's sources with minor modifications.
